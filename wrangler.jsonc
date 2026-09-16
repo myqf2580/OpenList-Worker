@@ -69,6 +69,7 @@
     //
     // CORS 白名单（逗号分隔，不设则仅同源）
     // "ALLOW_URLS": "https://yourdomain.com",
+    "JWT_SECRET": "rvXn9UNJ0DPMhVLEKI-bRrY9QnO-VBpepn-SqhhcCq0",
 
     // ── 可选参数 ──────────────────────────────────────────────────────────
     //
